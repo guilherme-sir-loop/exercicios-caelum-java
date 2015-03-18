@@ -1,0 +1,6 @@
+//Nesse primeiro dia de volta da minha primavera
+  public static void main(String[] args){
+   System.out.println("Minha primeira aplicação em java");
+   System.out.println("Por mais estúpida que pareça");
+   System.out.println("Essa mera repetição tem significado");
+}
